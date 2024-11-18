@@ -1,0 +1,9 @@
+**/access.py
+**/__pycache__/
+*.db
+*.log
+**/admin_list.py
+**/.mypy_cache
+**/yookassa_data.py
+**/mail_data.py
+.venv
